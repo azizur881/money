@@ -1,0 +1,37 @@
+.master{
+    color:green;
+    font-weight: 600;
+    font-size: 60px;
+    font-family:cooper;
+   
+    
+}
+.heading{ 
+    display: flex;
+   justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    
+}
+.img{
+width: 100%;
+height: auto;
+}
+
+.main{
+    height:800px;
+}
+.expense-title{
+    margin-top:20px;
+}
+#balance-output{
+font-weight: 700;
+font-family: sans-serif;
+}
+.count{
+    background-color: rgba(252, 160, 40, 0.658);
+    padding:20px;
+    box-shadow: -50px 30px 20px rgb(0,0,0,0.2),
+                  30px -30px 20px rgb(0,0,0,0.2)  ;
+}
